@@ -1,4 +1,7 @@
 [
-  "zad3.py::test_zlicz_znaki",
-  "zad3.py::test_with_error"
+  "zad4.py::test_formatuj_napis_bez_znacznikow",
+  "zad4.py::test_formatuj_wiele_napisow_bez_znacznikow",
+  "zad4.py::test_formatuj_napis_ze_znacznikiem",
+  "zad4.py::test_formatuj_wiele_napisow_ze_znacznikiem",
+  "zad4.py::test_formatuj_wiele_napisow_z_wieloma_znacznikami"
 ]
