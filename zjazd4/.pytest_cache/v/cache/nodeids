@@ -1,0 +1,6 @@
+[
+  "Animal.py::test_age",
+  "Animal.py::test_animal_sound",
+  "Animal.py::test_cat_sound",
+  "Animal.py::test_dog_sound"
+]

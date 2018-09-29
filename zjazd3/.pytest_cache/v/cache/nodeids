@@ -1,0 +1,6 @@
+[
+  "zad7.py::test_create",
+  "zad7.py::test_register",
+  "zad7.py::test_employee_of_the_month",
+  "zad7.py::test_create_emp_from_string"
+]
